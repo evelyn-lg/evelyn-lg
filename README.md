@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am available to work in robotics areas such as programming, embedded systems, electronics, CAD/CAM design or automation.<br><br>- 🔭 I am currently working as a Python programmer<br>- 📚 I'm learning Raspberry Pi and ROS<br>- ⚡ In my free time I improve my english and do exercise</p>
+<p align="left">Here you will find my personal projects<br><br>-I am available to work in robotics areas such as programming, embedded systems, electronics, CAD/CAM design or automation.<br><br>- 🔭 I am currently working as a Python programmer<br>- 📚 I'm learning Raspberry Pi and ROS<br>- ⚡ In my free time I improve my english and do exercise</p>
 
 ###
 
